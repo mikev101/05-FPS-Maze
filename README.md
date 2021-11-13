@@ -14,13 +14,13 @@ A basic 3D first person maze that fulfills the basic requirements of project 05.
 
 ## References
 Assets:
-[Space Kit by Kenney.nl](https://kenney.nl/assets/space-kit)
-[Platformer Kit by Kenney.nl](https://kenney.nl/assets/platformer-kit)
-Music and Sound Effects by Elizabeth Leibel, fellow IU producer.
+- [Space Kit by Kenney.nl](https://kenney.nl/assets/space-kit)
+- [Platformer Kit by Kenney.nl](https://kenney.nl/assets/platformer-kit)
+- Music and Sound Effects by Elizabeth Leibel, fellow IU producer.
 
 Functionality:
-[YouTube series by Jason Francis](https://www.youtube.com/watch?v=JHHtF_al2QM&list=PL3V-_hJz2cV-Z-fjiYDZoZy56jzT7Gux8&index=1)
-Previous exercises from MSCH 220
+- [YouTube series by Jason Francis](https://www.youtube.com/watch?v=JHHtF_al2QM&list=PL3V-_hJz2cV-Z-fjiYDZoZy56jzT7Gux8&index=1)
+- Previous exercises from MSCH 220
 
 ## Future Development
 None
