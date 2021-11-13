@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Chiptune_Bop_Loop2.wav-0f71a70f06aff5ea9a44362d4de2eb8c.sample"
+
+[deps]
+
+source_file="res://Assets/Chiptune_Bop_Loop2.wav"
+dest_files=[ "res://.import/Chiptune_Bop_Loop2.wav-0f71a70f06aff5ea9a44362d4de2eb8c.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
