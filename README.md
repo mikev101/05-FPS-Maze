@@ -11,6 +11,8 @@ A basic 3D first person maze that fulfills the basic requirements of project 05.
 - One enemy to impede your progress
 - A main menu, an in-game menu, and an end-game screen
 - A clear objective marked on HUD
+- Added Ambient Music
+- Added Sound effects to jewel pick up and approaching enemy
 
 ## References
 Assets:
